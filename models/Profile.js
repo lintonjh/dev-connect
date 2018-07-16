@@ -105,10 +105,10 @@ const ProfileSchema = new Schema({
       type: String
     },
     linkedin: {
-      type: Date
+      type: String
     },
     instagram: {
-      type: Date
+      type: String
     }
   },
   date: {
